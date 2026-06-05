@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9db20773-7110-4359-a5fd-3683a48e34c7",
+  "path": "graphify",
+  "path_key": "graphify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "howell5/willhong-skills/graphify",
+    "subpath": "skills/graphify",
+    "branch": null
+  }
+}
