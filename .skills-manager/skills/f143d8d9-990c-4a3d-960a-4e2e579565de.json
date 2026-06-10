@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f143d8d9-990c-4a3d-960a-4e2e579565de",
+  "path": "design-system-generator",
+  "path_key": "design-system-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
